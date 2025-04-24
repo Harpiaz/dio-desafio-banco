@@ -1,2 +1,2 @@
 # dio-desafio-banco
-Repositório destinado à resolução do desafio "Crie um Banco Digital com Java e Orientação a Objetos" da DIO.
+O projeto foi implementado com funcionalidades como cadastramento de clientes e abertura de contas, além das transações de depósito, saque e transferência. Criaram-se também métodos para a impressão do saldo e do extrato. Embora tenha-se pensado no contexto de um banco digital, com uma única agência, o sistema comportaria múltiplas agências, sendo necessário somente alguns ajustes na classe Main. Por fim, reconhece-se a necessidade de aprimoramentos, em particular a melhor adequação ao princípio DRY -- tais aprimoramentos não foram feitos unicamente por falta de tempo hábil.
